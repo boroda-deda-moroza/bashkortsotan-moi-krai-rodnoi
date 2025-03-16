@@ -346,7 +346,7 @@ template {
 }
 
 main {
-  background-image: url(../images/background.jpg);
+  background-image: url(../background.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -950,7 +950,7 @@ main .content .button .prev {
   cursor: pointer;
   margin: 0 5px;
   background: none;
-  background-image: url(../images/slider/arrow-back.png);
+  background-image: url(../slider/arrow-back.png);
   background-repeat: no-repeat;
   background-size: contain;
   transition: 0.3s;
@@ -993,7 +993,7 @@ main .content .button .next {
   cursor: pointer;
   margin: 0 5px;
   background: none;
-  background-image: url(../images/slider/arrow-forward.png);
+  background-image: url(../slider/arrow-forward.png);
   background-repeat: no-repeat;
   background-size: contain;
   transition: 0.3s;
